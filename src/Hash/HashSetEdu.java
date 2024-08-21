@@ -3,19 +3,6 @@ package Hash;
 import java.util.HashSet;
 import java.util.Iterator;
 public class HashSetEdu {
-    /**
-     * * HashSet is a data structure
-     * * HashSet is an efficient data structure because it takes constant time complexity
-     *   To add -> 0(1)
-     *   To search -> 0(1)
-     *   To remove -> 0(1)
-     * * In a set, there cannot contains duplicate values
-     * * set is an unordered data structure
-     * * Set has no index, contains only values
-     * * Some regular HashSet functions are -
-     *   add(), contains(), size(), remove()
-     */
-
     public static void main(String[] args) {
 
         //Initialize HashSet
@@ -45,11 +32,6 @@ public class HashSetEdu {
 
         //Iterating with Iterator
         Iterator<Integer> itr = set.iterator();
-        /**
-         * Iterator functions -> next(), hasNext()
-         * Iterator initial value is null.
-         * So when it starts iterating it start with first value and next....
-         */
 
         while(itr.hasNext()){
             System.out.println(itr.next());
