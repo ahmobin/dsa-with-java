@@ -6,8 +6,8 @@
     - To **search** -> `O(1)`
     - To **remove** -> `O(1)`
 - A **set** cannot contain duplicate values.
-- A **set** is an **unordered** data structure.
-- **Set** has no index, it contains only values.
+- **HashSet** is an **unordered** data structure.
+- **HashSet** has no index, it contains only values.
 
 ## Common HashSet Functions
 
