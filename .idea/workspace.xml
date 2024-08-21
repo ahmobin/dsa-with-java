@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c74f7ebd-b551-4cb6-8be9-3e1e66f71566" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Hash/HashMapEdu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentations/HashAlgorigthm.md" beforeDir="false" afterPath="$PROJECT_DIR$/Documentations/HashAlgorigthm.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -36,6 +41,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HashMapEdu.executor": "Run",
     "Application.HashSetEdu.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -84,7 +90,7 @@
       <updated>1724139732151</updated>
       <workItem from="1724139733182" duration="2469000" />
       <workItem from="1724223576403" duration="74000" />
-      <workItem from="1724223661480" duration="773000" />
+      <workItem from="1724223661480" duration="4580000" />
     </task>
     <servers />
   </component>
