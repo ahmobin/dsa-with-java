@@ -47,3 +47,7 @@
 - `hasNext()`
 
 **Note**: The iterator's initial value is `null`. When it starts iterating, it begins with the first value and continues to the next one.
+
+# Implementation HashMap In Java
+
+In Java, internally **HashMap** stored as array of LinkedList.
